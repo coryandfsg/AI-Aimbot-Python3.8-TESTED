@@ -33,6 +33,7 @@ AI model  aim-assist logic using object detection and mouse tracking.
 
 ---
 Witch game works - Apex Fortnite Valorant Cs2 Warzone rs6 Escape-from-tarkov (eft) Pubg
+-
 Doesn't work with 3rd person games (gta and more)
 
 ## 🛠 Requirements
